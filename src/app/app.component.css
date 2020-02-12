@@ -1,0 +1,14 @@
+.login_card {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 300px;
+}
+
+.login_field {
+    width: 90%;
+}
+
+.mat-typography {
+    background-color: black;
+}
